@@ -1,0 +1,4 @@
+{
+    "awsInputVideo": "testingvideo-dev-input-w0cqb334",
+    "awsOutputVideo": "testingvideo-dev-output-w0cqb334.s3.ap-south-1.amazonaws.com"
+}
